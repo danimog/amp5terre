@@ -7,7 +7,7 @@ const count = ref(0);
  
 <template>
  <div class="container p-3">
-   <h2>Seleziona i dati e invia</h2>
+   <h2>Segnalazione noleggi - locazioni</h2>
  </div>
  
 <div class="container myform">
