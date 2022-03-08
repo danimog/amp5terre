@@ -2,8 +2,6 @@
 import { ref } from 'vue'
 const count = ref(0);
  
-// load your data, for example:
-// const {data: videos} = await useFetch('http://localhost:1337/api/videos')
 </script>
  
  
